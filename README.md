@@ -13,6 +13,7 @@ Se agrega un archivo .csv con el registro de los clientes
 
 ```markdown
 |id_cliente|nombre|correo_electronico|ciudad|telefono|segmento|
+|---|---|---|---|---|---|
 1,Cliente A,cliente1@ejemplo.com,Madrid,+34 600 111 111,Premium
 2,Cliente B,cliente2@ejemplo.com,Barcelona,+34 600 222 222,Regular
 3,Cliente C,cliente3@ejemplo.com,Valencia,+34 600 333 333,Premium
