@@ -1,1 +1,11 @@
-
+customer_id,name,email,city,phone,segment
+1,Cliente A,cliente1@ejemplo.com,Madrid,+34 600 111 111,Premium
+2,Cliente B,cliente2@ejemplo.com,Barcelona,+34 600 222 222,Regular
+3,Cliente C,cliente3@ejemplo.com,Valencia,+34 600 333 333,Premium
+4,Cliente D,cliente4@ejemplo.com,Sevilla,+34 600 444 444,Regular
+5,Cliente E,cliente5@ejemplo.com,Bilbao,+34 600 555 555,Regular
+6,Cliente F,cliente6@ejemplo.com,Zaragoza,+34 600 666 666,Premium
+7,Cliente G,cliente7@ejemplo.com,Málaga,+34 600 777 777,Regular
+8,Cliente H,cliente8@ejemplo.com,Murcia,+34 600 888 888,Premium
+9,Cliente I,cliente9@ejemplo.com,Granada,+34 600 999 999,Regular
+10,Cliente J,cliente10@ejemplo.com,La Coruña,+34 600 000 000,Premium
